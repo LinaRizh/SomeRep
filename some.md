@@ -1,5 +1,5 @@
 **Some info**
 
-> anoctehr text 12546654
+> anoctehr text conflict
 
 **Hello World**
