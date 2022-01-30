@@ -1,5 +1,5 @@
 **Some info**
 
-> anoctehr text
+> anoctehr text conflict
 
 **Hello World**
